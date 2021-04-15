@@ -1,0 +1,121 @@
+body{
+
+       background-color: #dcedc2;
+
+       color:black;
+
+}
+
+h1{
+
+       color:#206a5d;
+
+}
+
+h2{
+
+       color:#9c3d54;
+
+}
+
+ 
+
+img{
+
+       border-radius: 50%;
+
+}
+
+#EHL{
+
+       border-radius: 0%
+
+}
+
+ 
+
+a {
+
+       color:#81b214;
+
+       text-decoration: none;
+
+}
+
+#socials{
+
+       list-style: none;
+
+       font-size: 22px;
+
+       padding:0;
+
+}
+
+*{
+
+       /*border:1px solid red;
+
+       /*font-size:34px;*/
+
+}
+
+body{
+
+       font-family: 'RocknRoll One', sans-serif;
+
+}
+
+.text-justify{text-align:justify;}
+
+.container{
+
+       width:700px;
+
+       margin:40px auto;
+
+}
+
+ 
+
+@media(max-width: 540px){
+
+       .container{
+
+              width: 300px;
+
+       }
+
+}
+
+ 
+
+.card-white{
+
+       background-color: white;
+
+       padding:40px 50px 50px 50px;
+
+       box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+
+       border-radius: 4px;text-align: center;
+
+       margin:30px 0;
+
+}
+
+h5{
+
+       color:#9c3d54;
+
+}
+
+#button-ehl:hover{
+
+background-color: #5e5bfb
+
+}
+
+
+
+
